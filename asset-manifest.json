@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kendallmiller9/doggie-style.git/static/css/main.13f801c1.chunk.css",
+    "main.js": "/kendallmiller9/doggie-style.git/static/js/main.2370ab77.chunk.js",
+    "main.js.map": "/kendallmiller9/doggie-style.git/static/js/main.2370ab77.chunk.js.map",
+    "runtime-main.js": "/kendallmiller9/doggie-style.git/static/js/runtime-main.0802ecdc.js",
+    "runtime-main.js.map": "/kendallmiller9/doggie-style.git/static/js/runtime-main.0802ecdc.js.map",
+    "static/js/2.1491dd8b.chunk.js": "/kendallmiller9/doggie-style.git/static/js/2.1491dd8b.chunk.js",
+    "static/js/2.1491dd8b.chunk.js.map": "/kendallmiller9/doggie-style.git/static/js/2.1491dd8b.chunk.js.map",
+    "static/js/3.0ebaa73c.chunk.js": "/kendallmiller9/doggie-style.git/static/js/3.0ebaa73c.chunk.js",
+    "static/js/3.0ebaa73c.chunk.js.map": "/kendallmiller9/doggie-style.git/static/js/3.0ebaa73c.chunk.js.map",
+    "index.html": "/kendallmiller9/doggie-style.git/index.html",
+    "static/css/main.13f801c1.chunk.css.map": "/kendallmiller9/doggie-style.git/static/css/main.13f801c1.chunk.css.map",
+    "static/js/2.1491dd8b.chunk.js.LICENSE.txt": "/kendallmiller9/doggie-style.git/static/js/2.1491dd8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0802ecdc.js",
+    "static/js/2.1491dd8b.chunk.js",
+    "static/css/main.13f801c1.chunk.css",
+    "static/js/main.2370ab77.chunk.js"
+  ]
+}
